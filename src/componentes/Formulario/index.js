@@ -22,6 +22,7 @@ const aoSalvar = (evento) => {
     setCargo('');
     setImagem('');
     setCargo('');
+    setTime('')
 }
 
     return (
