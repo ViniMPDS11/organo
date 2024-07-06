@@ -1,0 +1,23 @@
+.Rodape {
+    display: flex;
+    background-color: #6278F7;
+    height: 128px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 16px;
+}
+
+.Rodape div {
+    display: flex;
+    height: 32px;
+    width: 156px;
+    justify-content: space-between;
+}
+
+.Rodape .logoAlura {
+    height: 64px;
+}
+
+.Rodape p {
+    color: #FFF;
+}
